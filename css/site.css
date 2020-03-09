@@ -1,0 +1,24 @@
+.bg-123 {
+    background-color: #E9ECEF;
+}
+
+/*This is an overide of default background colours for specific divs. */
+
+.imageoverride {
+    height: 280px;
+    width: auto;
+}
+
+/*This is an overide for correctly sizing the profile picture within the menu. */
+
+.text-centered {
+    text-align: center;
+}
+
+/*This is an overide of default text allignment settings. It is used to center some text. */
+
+.imgpadding {
+    padding: 10px;
+}
+
+/*This adds a little padding to some of the images on the page. */
